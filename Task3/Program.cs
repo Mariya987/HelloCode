@@ -15,8 +15,4 @@ int Number = int.Parse(Console.ReadLine());
  else
  {
     Console.WriteLine("число не четное, введите другое число");
- }   
-
-
-
-    
+ }  
