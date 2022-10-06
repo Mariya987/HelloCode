@@ -8,8 +8,7 @@ void Getnumber (int number)
 {
      int number2 = number%100;
      int number3 = number2/10;
-
-     Console.WriteLine($"второе число {number3}");
      
+     Console.WriteLine($"второе число {number3}");  
 }
 Getnumber(918);
